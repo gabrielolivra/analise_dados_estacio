@@ -26,7 +26,12 @@ Para rodar este código, você precisará das seguintes bibliotecas Python:
 
 Você pode instalar as dependências necessárias com o seguinte comando:
 
-```bash
-pip install pandas numpy matplotlib scikit-learn
+pip install pandas numpy matplotlib scikit-learn 
 
-<img src='./assets/image.png'>
+### Dados
+
+Grafico de previsão
+<img src="./assets/image.png">
+
+Dados da previsão
+<img src="./assets/dados.png">

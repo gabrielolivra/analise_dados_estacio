@@ -28,3 +28,5 @@ Você pode instalar as dependências necessárias com o seguinte comando:
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn
+
+<image src='./assets/image.png'>
